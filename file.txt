@@ -1,2 +1,3 @@
+Code changes in the file.txt to form a new branch. [ By Team Member 1 ]
 First commit.
 Second commit.[Code changed directly by team-member : LEAD]
